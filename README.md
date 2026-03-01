@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Damilola Ojoawo
+- 👋 Hi, I’m dupont
 - 👀 I’m interested in Data Analysis Jobs
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Projects
